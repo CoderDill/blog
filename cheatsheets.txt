@@ -1,0 +1,9 @@
+The most productive thing I did today was to start implementing cheat sheets. I knew about these sheets but for whatever reasons I hadn't been using them while I was working on projects. Today I made a bookmark folder named CheatSheets and started throwing some of my favorites in there.
+
+Here are a couple:
+https://www.thinkful.com/blog/web-developer-cheat-sheet/
+This is Thinkfuls Ultimate Cheat Sheets for Web Developers. Tons of helpful cheat sheets.
+
+https://htmlcheatsheet.com/
+
+Let me know down in the comments any of your favorite cheat sheets.
