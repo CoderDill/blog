@@ -1,0 +1,4 @@
+
+I just had a breakthrough moment, or at least it felt like it to me. I was working on a function using Ajax to retrieve data from an API when I looked up and realized I had just written the entire thing without referencing anything (AND IT WORKED!). This was an "Ah Ha" moment that I can do this. The process of learning to code can be discouraging at times, but this was a good moment. Until I start on the next function and everything goes back to shit! Ha!
+
+Keep grinding!
