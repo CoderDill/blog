@@ -1,0 +1,8 @@
+A little bit about me:
+My name is Matt Dillon and I'm a Software Engineer specializing in Full Stack Development. My background is 15 years in Casino Management where I managed 75 employees, thousands of customers, and millions of dollars daily. Now I’m looking to take those skills of working in a fast-paced environment and apply them to opportunities in software development. I found out about Github Actions while attending a JDHH meetup with Brian Douglas as a guest speaker. Brian (a.k.a bdougie) works at Github as a Developer Advocate. This blog is for him.
+
+Github Actions
+I started my research at link and followed the directions in quickstart. The first thing you will need to do is set up your first workflow, follow the instructions in the link. I was going to described what this and using Github Actions/workflows could do, but this says it perfectly already link.
+
+Wrap-UP
+Happy to have met bdougie and found his projects. See you on Open Sauced!
