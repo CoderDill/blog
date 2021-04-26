@@ -1,0 +1,5 @@
+Diffferent "Standard" File Types:
+models.js - Contains classes that make up the data obtained from an API. Also handles that datas logic. NO UI.
+main.js - Contains code for starting UI or APP. Where you select your elements.
+nav.js - Contains code to show/hide elements in the nav bar, as well as code for clicking nav elements.
+
