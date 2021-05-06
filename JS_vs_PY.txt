@@ -1,0 +1,10 @@
+<h1>Javascript vs Python</h1>
+
+My first programming language is Javascript and we've had a back and forth relationship. I've now started learning my second programming language Python. My first impressions are positive. One area of difference between the two languages that caught my eye was the difference in equality operators.
+
+Javascript: ==, !=, ===, !== 
+Python: ==, !=, is, is not
+
+It is nice to see english words in code but then I got to thinking about people who don't speak english. Does this make it harder for them? The way Javascript does it is definitely more universally understandable I would imagine. That being said and knowing english, I do like the actual words. I also noticed Or, Not, AND instead of ||, !, &&, AND I like that too!
+
+What do you think?
